@@ -1,4 +1,4 @@
-import datetime
+from datetime import date
 import time 
 ano = int(input('Que ano analisar? coloque 0 para analisar o ano atual: '))
 if ano == 0:
