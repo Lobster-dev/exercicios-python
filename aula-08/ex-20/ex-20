@@ -1,0 +1,4 @@
+Exercício-20
+
+Muito parecido com o exercício-19, porém após digitar o nome dos 5 alunos ele sorteará esses alunos em uma ordem randômica (utilizando o comando shuffle da biblioteca random)
+ 
