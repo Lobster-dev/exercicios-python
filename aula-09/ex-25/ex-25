@@ -1,0 +1,3 @@
+Exercício-25
+
+Você digita o seu nome e ele lhe diz se o seu nome possui a palavra Silva. (caso o seu nome possua a palavra silva inclusa em outra palavra (ex- Silvanete ) ele colocará como falso, pois a idéia do programa é procurar a palavra silva isolada.
