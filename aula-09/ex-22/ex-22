@@ -1,0 +1,4 @@
+ Exercicio-22
+
+Ele pergunta o seu nome e o armazena na variável “nome”, após isso ele ira escrever o seu nome com todas as letras em maiúsculo, minúsculo, e dirá quantas letras ao todo o seu nome tem (sem contar os espaços).
+
