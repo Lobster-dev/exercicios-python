@@ -1,0 +1,5 @@
+Exercício-29
+
+    O programa lhe pedirá um número qualquer e armazenará a sua resposta dentro da
+variável “numero”. utilizando o  resto da divisão ele determinará se o número é par (quando
+o resto da divisão é zero)  ou ímpar (Quando o resto da divisão é diferente de zero).
