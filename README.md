@@ -1,1 +1,1 @@
-# exercicios-pyrhon
+# exercicios-python
