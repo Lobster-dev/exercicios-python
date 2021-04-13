@@ -5,7 +5,7 @@ MaiorIdade = 0
 MenorIdade = 0
 
 for c in range (0,7):
-    AnoNasc = int(input("Em que ano a {}° pessoa nasceu: ".format(c)))
+    AnoNasc = int(input("Em que ano a {}° pessoa nasceu: ".format(c+1)))
     idade = AnoAtual - AnoNasc
     if idade >= 18 :
         MaiorIdade = MaiorIdade + 1
