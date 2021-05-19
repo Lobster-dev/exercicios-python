@@ -1,0 +1,6 @@
+Brasileirao = ('Flamengo','Internacional','Atlético - MG ','São Paulo','Fluminense','Grêmio','Palmeiras','Santos','Athletico Paranaense','Bragantino','Ceará','Corinthians','Atlético','Bahia','Sport','Fortaleza','Vasco da Gama','Goiás','Coritiba','Botafogo')
+print(f'os 5 primeiros colocados: {Brasileirao[:5]}')
+print(f'os ultimos 4 colocados: {Brasileirao[-4:]}')
+print(f'os times em ordem alfabetica: {sorted(Brasileirao)}')
+Internacional = Brasileirao.index('Internacional')
+print(f'o time Internacional está na posição: {Internacional+1}')
