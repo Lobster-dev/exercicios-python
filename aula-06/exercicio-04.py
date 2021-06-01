@@ -7,4 +7,4 @@ print('É alfabetico: ', p.isalpha())
 print('É alfanumérico: ', p.isalnum())
 print('Está em maiusculas: ', p.isupper())
 print('Está em minusculas: ', p.islower())
-print('Está captalizado: ', p.istitle())05
+print('Está captalizado: ', p.istitle())
