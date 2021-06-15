@@ -9,7 +9,7 @@ AnoAtual = date.today().year
 
 idade = AnoAtual - Nascimento
 
-if idade <= +9:
+if idade <= 9:
     print('A sua categoria é MIRIM!!')
 elif 9 < idade <=14:
     print('A sua categoria é INFANTIL!!')
