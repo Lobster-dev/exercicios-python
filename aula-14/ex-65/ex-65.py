@@ -1,4 +1,3 @@
-Repeticao = True
 Numero = 0 
 Soma = 0 
 QuantNum = 0
@@ -7,10 +6,14 @@ MenorValor = 0
 
 
 
-while Repeticao == True:
+while True:
     Numero = int(input('Digite um Numero: '))
-    Soma = Soma + Numero
-    QuantNum = QuantNum + 1
+    
+    Continua = str(input('Deseja continuar[S/N]: ')).strip().lower()
+    if Continua == 'n':
+        break
+    
+    
 
     if QuantNum == 1:
         MaiorValor = Numero
@@ -20,10 +23,10 @@ while Repeticao == True:
             MaiorValor = Numero
         elif MenorValor > Numero:
             MenorValor = Numero
-
-    Continua = str(input('Deseja continuar[S/N]: ')).strip().lower()
-    if Continua == 'n':
-        Repeticao = False
+            
+    Soma += Numero
+    QuantNum += 1
+    
     
 Media = Soma / QuantNum
 
