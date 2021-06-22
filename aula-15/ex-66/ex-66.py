@@ -8,4 +8,4 @@ while True:
     else: 
         Soma = Soma + numero
         QuantNum += 1
-print(f'Foram digitados: {QuantNum} valores \nA soma entre ele é de: {Soma}')
+print(f'Foram digitados: {QuantNum} valores \nA soma entre eles é de: {Soma}')
