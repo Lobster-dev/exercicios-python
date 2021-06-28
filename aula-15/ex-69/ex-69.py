@@ -25,4 +25,5 @@ while True:
         break
 
 print('-'*22)
-print(f'Pessoas com mais de 18 anos: {PressoasMaiores} \nPessoas do sexo masculino: {Homens} \nPessoas do sexo feminino com menos de 20 anos: {Mulheres} ')
+print(f'''Pessoas com mais de 18 anos: {PressoasMaiores}
+\nPessoas do sexo masculino: {Homens}\nPessoas do sexo feminino com menos de 20 anos: {Mulheres} ''')
