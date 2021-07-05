@@ -1,6 +1,0 @@
-# Soma (vocẽ digita 2 numeros quanisquer e depois eles são somados)
-n1 = float(input('Digite um numero: '))
-n2 = float(input('Digite outro numero: '))
-s = float(n1+n2)
-# O comando ":.2f" presente na linha 6 dentro das chaves possio a função de limitar o numero de casas flutuantes (após a virgula)
-print('A soma entre {} e {} é: {:.2f}'.format(n1, n2, s)) 
