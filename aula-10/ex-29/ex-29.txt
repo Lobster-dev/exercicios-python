@@ -1,7 +1,0 @@
-Exercicio-29
-
-    Ele lhe perguntará a velocidade com a qual você está dirigindo. e caso sua 
-velocidade ultrapasse 80Km/h ele lhe informará que você foi multado e lhe aplicará uma
-multa de R$7,00 para cada km excedente ao limite. Caso a sua velocidade seja menor ou
-igual a 80km/h, ele lhe informará que você está dentro do limite de velocidade e depois lhe
-desejará boa viagem.

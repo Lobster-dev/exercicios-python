@@ -1,3 +1,0 @@
-Exercício-34
-
-Ele lhe pergunta o salario do funcionario que fica armazenado na variável “salario”, e caso o salário digitado seja menor ou igual a R$1250,00 ele aplicará um aumento de 15%, mas caso o salário digitado seja maior que R$1250,00 ele aplicará aumento de 10% 
