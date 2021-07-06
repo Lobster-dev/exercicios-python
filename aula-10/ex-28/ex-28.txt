@@ -1,7 +1,0 @@
-Exercício-28
-
-    O programa gera um número inteiro aleatório entre 1 e 5 e            
-armazena na variável "numero". e pedirá para que a pessoa
-tente adivinhá-lo.
-    Utilizando o sistema de condições ele lhe dirá se você    
-acertou o número, e caso você não o acerte ele lhe dirá qual era o  número que ele havia pensado.
