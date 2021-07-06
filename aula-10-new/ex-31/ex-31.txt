@@ -1,0 +1,3 @@
+Exercício-31
+
+Ele lhe pergunta a distância da sua viagem e a armazena na variável “distancia”. Caso a sua viagem seja de até 200km ele gerará o valor da passagem de R$0.50 por km. Se a sua viajem for maior que 200km ele passará a cobrar uma taxa de R$0.45 por km. Ao final ele lhe desejará uma boa viajem.
