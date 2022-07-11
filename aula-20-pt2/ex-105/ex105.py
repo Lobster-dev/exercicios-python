@@ -1,10 +1,12 @@
 from time import sleep
 
 def notas(sit=False):
-    """-> Função para analisar várias notas de um aluno 
+    """
+    -> Função para analisar várias notas de um aluno 
     :nota uma ou mais notas
     :sit opcional mostra a situação do aluno
-    :return dicionario com várias notas do aluno"""
+    :return dicionario com várias notas do aluno
+    """
 
     values = dict()
     media = QuantidadeTotalDeNotas = contador = maior = menor = 0
